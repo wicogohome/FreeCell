@@ -12,7 +12,7 @@
     <session id="2049614434">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.33" value="1" />
@@ -70,6 +70,9 @@
       <find>console</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -87,10 +90,11 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 5.5" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-13" />
-    <option name="width" value="1419" />
+    <option name="x" value="-14" />
+    <option name="width" value="1420" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -148,15 +152,16 @@
       <workItem from="1564120510552" duration="13133000" />
       <workItem from="1564156402982" duration="4058000" />
       <workItem from="1564204693945" duration="24670000" />
-      <workItem from="1564307803578" duration="16010000" />
+      <workItem from="1564307803578" duration="16417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67640000" />
+    <option name="totallyTimeSpent" value="68047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="1135" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.38120106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

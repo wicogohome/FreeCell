@@ -1,0 +1,23 @@
+{
+  "name": "2.freecell",
+  "version": "1.0.0",
+  "description": "freecell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wicogohome/FreeCell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wicogohome/FreeCell/issues"
+  },
+  "homepage": "https://github.com/wicogohome/FreeCell#readme",
+  "dependencies": {
+    "lottie-web": "^5.5.7",
+    "vue-lottie": "^0.2.1"
+  }
+}
